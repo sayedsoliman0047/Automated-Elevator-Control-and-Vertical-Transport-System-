@@ -96,7 +96,6 @@ Developed using **Siemens TIA Portal** and simulated in **Factory I/O**.
 ![Logic 2](2.png)
 ![Logic 3](3.png)
 ![Logic 4](4.png)
-![Logic 5](5.png)
 
 ### 🔹 Factory I/O Simulation
 
