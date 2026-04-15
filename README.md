@@ -14,7 +14,7 @@ Developed using **Siemens TIA Portal** and simulated in **Factory I/O**.
 
 ## 🛠️ Technology Stack
 
-* **PLC Programming:** Siemens TIA Portal (S7-1200 / S7-1500)
+* **PLC Programming:** Siemens TIA Portal (S7-1200)
 * **Simulation:** Factory I/O
 * **Motion Control:** Elevator (Up / Down / Slow Mode)
 * **Sensors:** Position Sensors + Limit Switches
@@ -65,9 +65,6 @@ Developed using **Siemens TIA Portal** and simulated in **Factory I/O**.
 
 ## 🧠 Technical Highlights
 
-* **State-Based Control Logic**
-  Structured using PLC memory bits (**M-tags**)
-
 * **Bidirectional Motion Control**
   Intelligent switching between Up and Down states
 
@@ -97,7 +94,7 @@ Developed using **Siemens TIA Portal** and simulated in **Factory I/O**.
 ![Logic 3](3.png)
 ![Logic 4](4.png)
 
-### 🔹 Factory I/O Simulation
+### 🔹 Factory Scene
 
 ![Scene](scene.png)
 
