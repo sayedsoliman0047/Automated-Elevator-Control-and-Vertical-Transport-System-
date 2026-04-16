@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates an advanced industrial **Vertical Transport System** designed for precise and safe movement of materials between multiple levels.
 
@@ -12,7 +12,7 @@ Developed using **Siemens TIA Portal** and simulated in **Factory I/O**.
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 * **PLC Programming:** Siemens TIA Portal (S7-1200)
 * **Simulation:** Factory I/O
@@ -22,7 +22,7 @@ Developed using **Siemens TIA Portal** and simulated in **Factory I/O**.
 
 ---
 
-## ⚙️ System Workflow
+##  System Workflow
 
 ### 1. Position Detection
 
@@ -41,8 +41,8 @@ Developed using **Siemens TIA Portal** and simulated in **Factory I/O**.
 
 * Elevator moves:
 
-  * ⬆️ Upward when target is above
-  * ⬇️ Downward when target is below
+  *  Upward when target is above
+  *  Downward when target is below
 
 ### 4. Precision Control (Slow Mode)
 
@@ -63,7 +63,7 @@ Developed using **Siemens TIA Portal** and simulated in **Factory I/O**.
 
 ---
 
-## 🧠 Technical Highlights
+##  Technical Highlights
 
 * **Bidirectional Motion Control**
   Intelligent switching between Up and Down states
@@ -81,32 +81,32 @@ Developed using **Siemens TIA Portal** and simulated in **Factory I/O**.
 
 ---
 
-## 📸 Project Preview
+##  Project Preview
 
-### 🔹 System Configuration
+###  System Configuration
 
 ![Driver Setup](0.png)
 
-### 🔹 Control Logic (Ladder Diagram)
+###  Control Logic (Ladder Diagram)
 
 ![Logic 1](1.png)
 ![Logic 2](2.png)
 ![Logic 3](3.png)
 ![Logic 4](4.png)
 
-### 🔹 Factory Scene
+###  Factory Scene
 
 ![Scene](scene.png)
 
 ---
 
-## 🎥 Demo Video
+##  Demo Video
 
-👉 [Watch elevator system demonstration](video.mp4)
+ [Watch elevator system demonstration](video.mp4)
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open project in **TIA Portal**
 2. Start **S7-PLCSIM**
@@ -114,5 +114,3 @@ Developed using **Siemens TIA Portal** and simulated in **Factory I/O**.
 4. Connect using **Siemens S7 driver**
 5. Switch PLC to **RUN mode**
 6. Execute system commands
-
----
